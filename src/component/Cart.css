@@ -1,0 +1,33 @@
+.cart-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cart-container img {
+    width: 400px;
+    height: 400px;
+}
+
+.asAgree {
+    margin: 15px 0 15px 0;
+    display: flex;
+    align-items: center;
+    
+}
+
+.asAgree label {
+    margin: 0px;
+}
+
+.no-underline {
+    text-decoration: none;
+    color: 'hotpink';
+}
+
+button {
+    margin: 10px;
+}
